@@ -58,13 +58,3 @@ This project performs in-depth e-commerce analysis by extracting session and ord
 - `squarify`
 
 ---
-
-## How to Run the Projects
-
-### Prerequisites
-1. **Google Cloud Project:** Ensure that you have access to a Google Cloud Project with BigQuery enabled.
-2. Install necessary libraries (listed in the dependencies section) either in a virtual environment or globally.
-3. Authenticate your Google Cloud account in Google Colab using the following code:
-   ```python
-   from google.colab import auth
-   auth.authenticate_user()
